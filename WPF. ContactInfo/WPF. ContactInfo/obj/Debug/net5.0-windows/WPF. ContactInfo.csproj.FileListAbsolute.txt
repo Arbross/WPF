@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.exe
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.deps.json
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.dll
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\ref\WPF. ContactInfo.dll
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\bin\Debug\net5.0-windows\WPF. ContactInfo.pdb
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.g.resources
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.dll
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\ref\WPF. ContactInfo.dll
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.pdb
+C:\Users\victor\source\repos\WPF. ContactInfo\WPF. ContactInfo\obj\Debug\net5.0-windows\WPF. ContactInfo.genruntimeconfig.cache

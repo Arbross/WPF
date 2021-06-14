@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.exe
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.deps.json
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.dll
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\ref\WPF. CallTask.dll
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\bin\Debug\net5.0-windows\WPF. CallTask.pdb
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.g.resources
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.dll
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\ref\WPF. CallTask.dll
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.pdb
+C:\Users\victor\source\repos\WPF. CallTask\WPF. CallTask\obj\Debug\net5.0-windows\WPF. CallTask.genruntimeconfig.cache

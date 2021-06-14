@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.exe
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.deps.json
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.dll
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\ref\WPF. Schulte Table.dll
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\bin\Debug\net5.0-windows\WPF. Schulte Table.pdb
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.g.resources
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.dll
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\ref\WPF. Schulte Table.dll
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.pdb
+C:\Users\victor\source\repos\WPF. Schulte Table\WPF. Schulte Table\obj\Debug\net5.0-windows\WPF. Schulte Table.genruntimeconfig.cache

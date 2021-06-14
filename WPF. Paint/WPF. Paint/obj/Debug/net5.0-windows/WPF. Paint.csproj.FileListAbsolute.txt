@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.exe
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.deps.json
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.dll
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\ref\WPF. Paint.dll
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\bin\Debug\net5.0-windows\WPF. Paint.pdb
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.g.resources
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.dll
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\ref\WPF. Paint.dll
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.pdb
+C:\Users\victor\source\repos\WPF. Paint\WPF. Paint\obj\Debug\net5.0-windows\WPF. Paint.genruntimeconfig.cache

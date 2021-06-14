@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.exe
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.deps.json
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.dll
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\ref\WPF. ColorView.dll
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\bin\Debug\net5.0-windows\WPF. ColorView.pdb
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.g.resources
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.dll
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\ref\WPF. ColorView.dll
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.pdb
+C:\Users\victor\source\repos\WPF. ColorView\WPF. ColorView\obj\Debug\net5.0-windows\WPF. ColorView.genruntimeconfig.cache

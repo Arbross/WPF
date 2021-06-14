@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.exe
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.deps.json
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.dll
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\ref\WPF. Text and Documents.dll
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\bin\Debug\net5.0-windows\WPF. Text and Documents.pdb
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.g.resources
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.dll
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\ref\WPF. Text and Documents.dll
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.pdb
+C:\Users\victor\source\repos\WPF. Text and Documents\WPF. Text and Documents\obj\Debug\net5.0-windows\WPF. Text and Documents.genruntimeconfig.cache

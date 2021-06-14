@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.exe
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.deps.json
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.dll
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\ref\WPF. Design Shulte Styles.dll
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\bin\Debug\net5.0-windows\WPF. Design Shulte Styles.pdb
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.g.resources
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.dll
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\ref\WPF. Design Shulte Styles.dll
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.pdb
+C:\Users\victor\source\repos\WPF. Design Shulte Styles\WPF. Design Shulte Styles\obj\Debug\net5.0-windows\WPF. Design Shulte Styles.genruntimeconfig.cache

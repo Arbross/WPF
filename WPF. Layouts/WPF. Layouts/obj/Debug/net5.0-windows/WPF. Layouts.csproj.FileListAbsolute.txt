@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.exe
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.deps.json
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.dll
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\ref\WPF. Layouts.dll
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\bin\Debug\net5.0-windows\WPF. Layouts.pdb
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.g.resources
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.dll
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\ref\WPF. Layouts.dll
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.pdb
+C:\Users\victor\source\repos\WPF. Layouts\WPF. Layouts\obj\Debug\net5.0-windows\WPF. Layouts.genruntimeconfig.cache

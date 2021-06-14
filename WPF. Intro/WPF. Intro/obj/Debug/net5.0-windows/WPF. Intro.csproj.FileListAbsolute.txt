@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.exe
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.deps.json
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.dll
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\ref\WPF. Intro.dll
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\bin\Debug\net5.0-windows\WPF. Intro.pdb
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.g.resources
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.dll
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\ref\WPF. Intro.dll
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.pdb
+C:\Users\victor\source\repos\WPF. Intro\WPF. Intro\obj\Debug\net5.0-windows\WPF. Intro.genruntimeconfig.cache

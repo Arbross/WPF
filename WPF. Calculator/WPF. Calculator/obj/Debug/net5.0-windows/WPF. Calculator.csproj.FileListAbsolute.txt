@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.exe
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.deps.json
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.dll
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\ref\WPF. Calculator.dll
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\bin\Debug\net5.0-windows\WPF. Calculator.pdb
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.g.resources
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.dll
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\ref\WPF. Calculator.dll
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.pdb
+C:\Users\victor\source\repos\WPF. Calculator\WPF. Calculator\obj\Debug\net5.0-windows\WPF. Calculator.genruntimeconfig.cache

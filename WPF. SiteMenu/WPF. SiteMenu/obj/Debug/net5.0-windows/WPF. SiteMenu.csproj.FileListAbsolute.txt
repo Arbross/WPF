@@ -1,0 +1,22 @@
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.exe
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.deps.json
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.runtimeconfig.json
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.runtimeconfig.dev.json
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.dll
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\ref\WPF. SiteMenu.dll
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\bin\Debug\net5.0-windows\WPF. SiteMenu.pdb
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu_MarkupCompile.cache
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu_MarkupCompile.lref
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.g.resources
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.AssemblyInfo.cs
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.dll
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\ref\WPF. SiteMenu.dll
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.pdb
+C:\Users\victor\source\repos\WPF. SiteMenu\WPF. SiteMenu\obj\Debug\net5.0-windows\WPF. SiteMenu.genruntimeconfig.cache
