@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor\\source\\repos\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj": {}
+    "C:\\Users\\victor\\Desktop\\WPF\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor\\source\\repos\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj": {
+    "C:\\Users\\victor\\Desktop\\WPF\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\source\\repos\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj",
+        "projectUniqueName": "C:\\Users\\victor\\Desktop\\WPF\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj",
         "projectName": "WPF. Design Shulte Styles",
-        "projectPath": "C:\\Users\\victor\\source\\repos\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj",
+        "projectPath": "C:\\Users\\victor\\Desktop\\WPF\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\source\\repos\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\obj\\",
+        "outputPath": "C:\\Users\\victor\\Desktop\\WPF\\WPF. Design Shulte Styles\\WPF. Design Shulte Styles\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows7.0"
@@ -57,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

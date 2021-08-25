@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WPF._Design_Shulte_Styles"
         mc:Ignorable="d"
         Title="MainWindow" Height="800" Width="800" Background="#2e0947">
-        <Window.Resources>
+    <Window.Resources>
         <Style TargetType="{x:Type Button}">
             <Setter Property="FontSize" Value="60"/>
             <Setter Property="FontWeight" Value="DemiBold"/>
@@ -15,22 +15,16 @@
             <Setter Property="Margin" Value="0.7"/>
             <Setter Property="Background" Value="#95d449"/>
             <Style.Triggers>
-                <EventTrigger RoutedEvent="Button.MouseDown">
+                <EventTrigger RoutedEvent="Button.Click">
                     <BeginStoryboard>
-                        <Storyboard>
-                            <DoubleAnimationUsingKeyFrames
-                                    Storyboard.TargetProperty="X"
-                                    Duration="0:0:0:0.12"
-                                    RepeatBehavior="2x">
-                                <LinearDoubleKeyFrame Value="3" KeyTime="0:0:0:0.03"/>
-                                <LinearDoubleKeyFrame Value="-3" KeyTime="0:0:0:0.09" />
-                                <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0:0.12" />
-                            </DoubleAnimationUsingKeyFrames>
+                        <Storyboard RepeatBehavior="Forever">
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color" To="#4f3268" AutoReverse="True" Duration="0:0:1"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Style.Triggers>
         </Style>
+            
         <Style x:Key="redButton" BasedOn="{StaticResource {x:Type Button}}" TargetType="{x:Type Button}">
             <Setter Property="Background" Value="#e3516e"/>
         </Style>
@@ -84,28 +78,7 @@
         <Border Style="{StaticResource borderOne}" Grid.Row="0" Grid.RowSpan="9"/>
         <Border Style="{StaticResource borderOne}" Grid.Row="0" Grid.RowSpan="9" Grid.Column="8"/>
         <Border Style="{StaticResource borderOne}" Grid.Column="0" Grid.ColumnSpan="9" Grid.Row="8"/>
-        <Border Grid.Column="1" Grid.Row="1">
-            <Border.RenderTransform>
-                <TranslateTransform x:Name="borderTransform" X="0" Y="0"/>
-            </Border.RenderTransform>
-            <Border.Triggers>
-                <EventTrigger RoutedEvent="Border.MouseDown">
-                    <BeginStoryboard>
-                        <Storyboard>
-                            <DoubleAnimationUsingKeyFrames
-                                    Storyboard.TargetName="borderTransform"
-                                    Storyboard.TargetProperty="X"
-                                    Duration="0:0:0:0.12"
-                                    RepeatBehavior="2x">
-                                <LinearDoubleKeyFrame Value="3" KeyTime="0:0:0:0.03"/>
-                                <LinearDoubleKeyFrame Value="-3" KeyTime="0:0:0:0.09" />
-                                <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0:0.12" />
-                            </DoubleAnimationUsingKeyFrames>
-                        </Storyboard>
-                    </BeginStoryboard>
-                </EventTrigger>
-            </Border.Triggers>
-        </Border>
+        <Button Grid.Column="1" Grid.Row="1" Content="20"/>
         <Button Content="42" Grid.Column="2" Grid.Row="1" Style="{StaticResource whiteButton}"/>
         <Button Content="13" Grid.Column="3" Grid.Row="1" Style="{StaticResource violetButton}"/>
         <Button Content="20" Grid.Column="4" Grid.Row="1" Style="{StaticResource blueButton}"/>
